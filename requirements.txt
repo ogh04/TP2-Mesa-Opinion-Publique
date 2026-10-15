@@ -1,0 +1,7 @@
+
+mesa>=3,<4
+numpy
+pandas
+matplotlib
+networkx
+ipykernel
